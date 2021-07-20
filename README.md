@@ -25,6 +25,7 @@ NOTE: the images are called from https://newsapi.org/docs/endpoints/top-headline
    - SCSS.
    - AXIOS.
    - Flex box
+   - Responsive for Desktop, Tablet, Mobile
 
 4. CONTACT
 
