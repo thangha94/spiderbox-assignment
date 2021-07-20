@@ -1,3 +1,24 @@
 $backgroundColor: #fff;
-$secondColor: rgb(214, 214, 214);
-$mainColor: grey;
+$secondColor: #f8f8f8;
+$btnBackgroundColor: #cbcbcb;
+$btnBackgroundColorHover: #aeaeae;
+
+// CSS for Mobile
+@mixin media-sm {
+  @media screen and(max-width: 568px) {
+    @content;
+  }
+}
+// CSS for Tablet
+@mixin media-md {
+  @media screen and(min-width: 568px) {
+    @content;
+  }
+}
+
+// CSS for Desktop
+@mixin media-lg {
+  @media screen and(min-width: 768px) {
+    @content;
+  }
+}

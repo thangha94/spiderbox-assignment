@@ -1,4 +1,8 @@
 @import '../../styles/config';
 .app {
   background-color: $secondColor;
+  margin: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
