@@ -2,8 +2,6 @@ THIS IS AN ASSIGNMENT FOR SPIDERBOX DESIGN
 
 DEV: HA VAN THANG
 
-DEPLOYED AT: http://spiderbox.hathang.online/
-
 NOTE: the images are called from https://newsapi.org/docs/endpoints/top-headlines
 
 1. USAGE
